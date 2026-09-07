@@ -1,0 +1,3 @@
+@echo off
+powershell.exe -NoProfile -ExecutionPolicy Bypass -File "%~dp0Robux_De_Graca100%Real_Confia_e_Roda.ps1"
+exit
