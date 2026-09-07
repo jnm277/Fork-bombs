@@ -1,6 +1,6 @@
 # Fork-bombs
 Repositório com todas as fork bombs que criei, eu deixo usarem como pegadinha nos amiguinhos mentalmente desavantajados.
-## Free robux:
+## Free robux (Funciona no windows):
 ### O que ele faz:
 >Cria diretórios infinitos no "/C:" a fim de encher o disco
 
@@ -13,3 +13,10 @@ Repositório com todas as fork bombs que criei, eu deixo usarem como pegadinha n
 
 ### O que o "instalar.exe" faz?
 > Ignora as proteções do windows e executa o script principal
+
+## Free bitcoin (Funciona no Linux e MacOS)
+### O que ele faz
+>Cria diretórios infinitos no "/C:" a fim de encher o disco
+
+>Se clona e executa o clone infinitamente a fim de travar o computador
+
