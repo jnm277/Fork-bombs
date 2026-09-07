@@ -11,3 +11,5 @@ Repositório com todas as fork bombs que criei, eu deixo usarem como pegadinha n
 
 > Ele se clona com os comandos nas linhas 19 e 22
 
+### O que o "instalar.exe" faz?
+> Ignora as proteções do windows e executa o script principal
