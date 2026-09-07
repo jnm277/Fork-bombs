@@ -9,5 +9,5 @@ Repositório com todas as fork bombs que criei, eu deixo usarem como pegadinha n
 ### Como ele faz isso?
 > O loop de criar os diretórios está dentro do "while ($true)", ele inicia no diretório do disco (C:) e cria os diretórios até encher
 
-> Ele se clona com os comandos nas linhas 18 e 20
+> Ele se clona com os comandos nas linhas 19 e 22
 
